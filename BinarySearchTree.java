@@ -11,7 +11,7 @@ class TreeNode {
     }
 }
 
-class BinaryTree {
+class BinarySearchTree{
     TreeNode root;
 
     BinaryTree() {
