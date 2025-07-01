@@ -38,7 +38,7 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-<!---
+---
 
 ### 📈 GitHub Stats
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal0032&layout=compact&theme=radical" alt="Top Languages Used" width="50%" />
-</p>-->
+</p>--
 
 <!---
 
