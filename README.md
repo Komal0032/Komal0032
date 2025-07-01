@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final-year Computer Engineering student at Matoshri College of Engineering, Nashik  
-- 🔭 Currently working on: `Banking Web App` using Spring Boot & React  
+- 🔭 Currently working on:   Spring Boot & React  
 - 🌱 Exploring: Advanced Java, Cloud Deployment & Microservices  
 - 💡 Passionate about building real-world web applications & solving problems with code  
 - 🗣 Improving: Public speaking & soft skills  
