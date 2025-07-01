@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ,I'm Komal 👋
 
 <!--
 **Komal0032/Komal0032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Engineering student and a passionate Full Stack Java Developer from India 🇮🇳
+
+## 🚀 Tech Stack:
+- Java, Spring Boot, Hibernate
+- ReactJS, HTML, CSS, JavaScript
+- MySQL, MongoDB
+- Git & GitHub, Maven
