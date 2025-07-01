@@ -1,30 +1,28 @@
-## Hi ,I'm Komal 👋
+<h1 align="center">Hi 👋, I'm Komal Jadhav</h1>
+<h3 align="center">💻 Full Stack Java Developer | 🎓 Computer Engineering Student | 🚀 Tech Enthusiast</h3>
 
-<!--
-**Komal0032/Komal0032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a Computer Engineering student and a passionate Full Stack Java Developer from India 🇮🇳
+- 🎓 Final-year Computer Engineering student at Matoshri College of Engineering, Nashik  
+- 🔭 Currently working on: `Banking Web App` using Spring Boot & React  
+- 🌱 Exploring: Advanced Java, Cloud Deployment & Microservices  
+- 💡 Passionate about building real-world web applications & solving problems with code  
+- 🗣 Improving: Public speaking & soft skills  
 
-## 🚀 Tech Stack:
-- Java, Spring Boot, Hibernate
-- ReactJS, HTML, CSS, JavaScript
-- MySQL, MongoDB
-- Git & GitHub, Maven
+---
 
-  ## 📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/komal-jadhav-584588275)
-<!--- [Portfolio](https://yourportfolio.com)-->
+### 💻 Tech Stack
+
+#### 🧠 Languages & Frameworks:
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### 🧰 Tools & Database:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,9 +31,32 @@ I'm a Computer Engineering student and a passionate Full Stack Java Developer fr
 ![Eclipse](https://img.shields.io/badge/Eclipse-IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-jadhav)
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komal0032&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal0032&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
+<!---
+
+### 📌 Pinned Projects
+
+🔹 [**Banking Web App**](https://github.com/komal0032/banking-app) – Spring Boot + React | REST APIs, JPA, MySQL  
+🔹 [**Iris CH Desktop Assistant**](https://github.com/komal0032/iris-assistant) – Java-based voice/text assistant  
+🔹 [**Struts Login Form**](https://github.com/komal0032/struts-login) – MVC-based login with validations  
+🔹 [**React Login UI**](https://github.com/komal0032/react-login-ui) – Frontend validation with ‘Remember Me’
+
+--->
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-jadhav-584588275)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbjadhav193@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komal0032)
+
+---
+
+✨ *"Code with purpose. Learn with passion. Build with confidence."*
