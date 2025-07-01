@@ -33,4 +33,9 @@ I'm a Computer Engineering student and a passionate Full Stack Java Developer fr
 ![Eclipse](https://img.shields.io/badge/Eclipse-IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-jadhav)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
+
+
 
