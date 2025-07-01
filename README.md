@@ -21,3 +21,10 @@ I'm a Computer Engineering student and a passionate Full Stack Java Developer fr
 - ReactJS, HTML, CSS, JavaScript
 - MySQL, MongoDB
 - Git & GitHub, Maven
+
+  ## 📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/komal-jadhav-584588275)
+<!--- [Portfolio](https://yourportfolio.com)-->
+
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
