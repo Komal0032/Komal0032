@@ -43,8 +43,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal0032&show_icons=true&theme=radical" alt="Komal's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal0032&theme=radical" alt="Komal's GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=komal0032&show_icons=true&theme=radical" alt="Komal's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal0032&theme=radical" alt="Komal's GitHub Streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal0032&layout=compact&theme=radical" alt="Top Languages Used" width="50%" />
 </p>
 
 <!---
