@@ -26,5 +26,11 @@ I'm a Computer Engineering student and a passionate Full Stack Java Developer fr
 - [LinkedIn](https://linkedin.com/in/komal-jadhav-584588275)
 <!--- [Portfolio](https://yourportfolio.com)-->
 
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+#### 🧰 Tools & Database:
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
