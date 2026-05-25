@@ -10,7 +10,7 @@
 - 🌱 Exploring: Advanced Java, Cloud Deployment & Microservices  
 - 💡 Passionate about building real-world web applications & solving problems with code  
 - 🗣 Improving: Public speaking & soft skills
-- komal-jadhav-portfolio.netlify.app/
+
 
 ---
 
